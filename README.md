@@ -135,6 +135,6 @@ pip install streamlit plotly pandas
 streamlit run app/app.py
 
 
-Student Name: Aman Siddiqui
+**Student Name:** Aman Siddiqui
 
 
