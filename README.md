@@ -20,9 +20,9 @@ Booking records for a City Hotel and a Resort Hotel in Portugal (arrivals July 2
 
 &#x20;             **Rows**  | **Columns** |
 
-&#x20;    **Rows**  | 119,390 | 32      |
+&#x20;    **Raw**  | 119,390 | 32      |
 
-&#x20; **Columns** | 87,221  | 35      |
+&#x20; **Cleaned** | 87,221  | 35      |
 
 
 
